@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Quran-sbu
+Version: 1
+Summary: Quran_simple
+Author: Masoud_shafiei
+Author-email: masoudshafiei625@gmail.com
+Keywords: quran,sbu
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: all of student
+Classifier: Programming Language :: Python :: 3
+
+My first Python package with a slightly longer description

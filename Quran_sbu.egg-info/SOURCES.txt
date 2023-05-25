@@ -1,0 +1,6 @@
+README.txt
+setup.py
+Quran_sbu.egg-info/PKG-INFO
+Quran_sbu.egg-info/SOURCES.txt
+Quran_sbu.egg-info/dependency_links.txt
+Quran_sbu.egg-info/top_level.txt
